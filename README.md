@@ -1,3 +1,4 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Utsav. I love coding!" src="./assets/gh-readme-header.png" /></a></p>
 <h3>
  On Going: 
  </h3> 
