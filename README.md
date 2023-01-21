@@ -2,7 +2,7 @@
  On Going: 
  </h3> 
  <ul>
- <li> Learning OOP 
+ <li> Learning OOP && C++
  <li>Computer Programming Student @ Seneca college </li>
 </ul>
 
