@@ -1,8 +1,9 @@
 <h3>
- On Going: 
+ ☞On Going: 
  </h3> 
  <ul>
  <li>Computer Programming Student @ Seneca college </li>
+ <li>
 </ul>
 
 
