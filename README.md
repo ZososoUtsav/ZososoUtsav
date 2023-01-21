@@ -4,7 +4,6 @@
  <ul>
  <li> Learning OOP 
  <li>Computer Programming Student @ Seneca college </li>
- <li>
 </ul>
 
 <h3> Languages</h3>
