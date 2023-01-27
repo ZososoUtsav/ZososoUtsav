@@ -5,7 +5,7 @@
  <li> Learning OOP && C++
  <li>Computer Programming Student @ Seneca college </li>
 </ul>
-![alt text](https://anime-girls-holding-programming-books.netlify.app/CPP)
+![alt text](https://anime-girls-holding-programming-books.netlify.app/static/cirno_teaches_cpp-6b450a2978f38d816d76dea1dff583d9.jpg)
 
 
 <h3> Languages</h3>
