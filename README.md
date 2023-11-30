@@ -2,6 +2,7 @@
  On Going: 
  </h3> 
  <ul> 
+  <li> The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann </li> 
  <li>Computer Programming Student @ Seneca college </li>
 </ul>
 <h3> Languages</h3>
